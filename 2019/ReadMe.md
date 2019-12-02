@@ -9,3 +9,4 @@ Advent of Code is an annual coding challenge for the Advent season (Dec 1-24).
 ### Collect stars by solving puzzles. Two puzzles will be made available on each day in the Advent calendar; the second puzzle is unlocked when you complete the first. Each puzzle grants one star. Good luck!
 
 1. [The Tyranny of the Rocket Equation](https://github.com/kjeliasen/AdventOfCode/blob/master/2019/2019_01.ipynb)
+2. [1202 Program Alarm](https://github.com/kjeliasen/AdventOfCode/blob/master/2019/2019_02.ipynb)
