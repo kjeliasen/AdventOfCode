@@ -10,3 +10,4 @@ Advent of Code is an annual coding challenge for the Advent season (Dec 1-24).
 
 1. [The Tyranny of the Rocket Equation](https://github.com/kjeliasen/AdventOfCode/blob/master/2019/2019_01.ipynb)
 2. [1202 Program Alarm](https://github.com/kjeliasen/AdventOfCode/blob/master/2019/2019_02.ipynb)
+3. [Crossed Wires](https://github.com/kjeliasen/AdventOfCode/blob/master/2019/2019_03.ipynb)
