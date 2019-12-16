@@ -23,7 +23,7 @@ Advent of Code is an annual coding challenge for the Advent season (Dec 1-24).
 13. [Care Package](https://adventofcode.com/2019/day/13)<!-- ; [not started](https://github.com/kjeliasen/AdventOfCode/blob/master/2019/my_solutions/2019_13.ipynb) -->
 14. [Space Stoichiometry](https://adventofcode.com/2019/day/14)<!-- ; [not started](https://github.com/kjeliasen/AdventOfCode/blob/master/2019/my_solutions/2019_14.ipynb) -->
 15. [Oxygen System](https://adventofcode.com/2019/day/15)<!-- ; [not started](https://github.com/kjeliasen/AdventOfCode/blob/master/2019/my_solutions/2019_15.ipynb) -->
-<!-- 16. [TBD](https://adventofcode.com/2019/day/16); [not started](https://github.com/kjeliasen/AdventOfCode/blob/master/2019/my_solutions/2019_16.ipynb) -->
+16. [Flawed Frequency Transmission](https://adventofcode.com/2019/day/16)<!-- ; [not started](https://github.com/kjeliasen/AdventOfCode/blob/master/2019/my_solutions/2019_16.ipynb) -->
 <!-- 17. [TBD](https://adventofcode.com/2019/day/17); [not started](https://github.com/kjeliasen/AdventOfCode/blob/master/2019/my_solutions/2019_17.ipynb) -->
 <!-- 18. [TBD](https://adventofcode.com/2019/day/18); [not started](https://github.com/kjeliasen/AdventOfCode/blob/master/2019/my_solutions/2019_18.ipynb) -->
 <!-- 19. [TBD](https://adventofcode.com/2019/day/19); [not started](https://github.com/kjeliasen/AdventOfCode/blob/master/2019/my_solutions/2019_19.ipynb) -->
