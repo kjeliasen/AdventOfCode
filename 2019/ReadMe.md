@@ -4,6 +4,9 @@
 
 Advent of Code is an annual coding challenge for the Advent season (Dec 1-24).
 
+Coding primarily in Python and in Jupyter Notebooks. Just for fun and practice, not necissaryly for bloodthirsty win-or-be-damned competition. Going at my own pace.
+[Main Page](https://github.com/kjeliasen/AdventOfCode)
+
 ### Santa has become stranded at the edge of the Solar System while delivering presents to other planets! To accurately calculate his position in space, safely align his warp drive, and return to Earth in time to save Christmas, he needs you to bring him measurements from fifty stars.
 
 ### Collect stars by solving puzzles. Two puzzles will be made available on each day in the Advent calendar; the second puzzle is unlocked when you complete the first. Each puzzle grants one star. Good luck!
