@@ -28,10 +28,11 @@ Coding primarily in Python and in Jupyter Notebooks. Just for fun and practice, 
 15. [Oxygen System](https://adventofcode.com/2019/day/15)<!-- ; [not started](https://github.com/kjeliasen/AdventOfCode/blob/master/2019/my_solutions/2019_15.ipynb) -->
 16. [Flawed Frequency Transmission](https://adventofcode.com/2019/day/16)<!-- ; [not started](https://github.com/kjeliasen/AdventOfCode/blob/master/2019/my_solutions/2019_16.ipynb) -->
 17. [Set and Forget](https://adventofcode.com/2019/day/17)<!-- ; [not started](https://github.com/kjeliasen/AdventOfCode/blob/master/2019/my_solutions/2019_17.ipynb) -->
-<!-- 18. [TBD](https://adventofcode.com/2019/day/18); [not started](https://github.com/kjeliasen/AdventOfCode/blob/master/2019/my_solutions/2019_18.ipynb) -->
-<!-- 19. [TBD](https://adventofcode.com/2019/day/19); [not started](https://github.com/kjeliasen/AdventOfCode/blob/master/2019/my_solutions/2019_19.ipynb) -->
-<!-- 20. [TBD](https://adventofcode.com/2019/day/20); [not started](https://github.com/kjeliasen/AdventOfCode/blob/master/2019/my_solutions/2019_20.ipynb) -->
-<!-- 21. [TBD](https://adventofcode.com/2019/day/21); [not started](https://github.com/kjeliasen/AdventOfCode/blob/master/2019/my_solutions/2019_21.ipynb) -->
-<!-- 22. [TBD](https://adventofcode.com/2019/day/22); [not started](https://github.com/kjeliasen/AdventOfCode/blob/master/2019/my_solutions/2019_22.ipynb) -->
-<!-- 23. [TBD](https://adventofcode.com/2019/day/23); [not started](https://github.com/kjeliasen/AdventOfCode/blob/master/2019/my_solutions/2019_23.ipynb) -->
-<!-- 24. [TBD](https://adventofcode.com/2019/day/24); [not started](https://github.com/kjeliasen/AdventOfCode/blob/master/2019/my_solutions/2019_24.ipynb) -->
+18. [Many-Worlds Interpretation](https://adventofcode.com/2019/day/18)<!-- ; [not started](https://github.com/kjeliasen/AdventOfCode/blob/master/2019/my_solutions/2019_18.ipynb) -->
+19. [Tractor Beam](https://adventofcode.com/2019/day/19)<!-- ; [not started](https://github.com/kjeliasen/AdventOfCode/blob/master/2019/my_solutions/2019_19.ipynb) -->
+20. [Donut Maze](https://adventofcode.com/2019/day/20)<!-- ; [not started](https://github.com/kjeliasen/AdventOfCode/blob/master/2019/my_solutions/2019_20.ipynb) -->
+21. [Springdroid Adventure](https://adventofcode.com/2019/day/21)<!-- ; [not started](https://github.com/kjeliasen/AdventOfCode/blob/master/2019/my_solutions/2019_21.ipynb) -->
+22. [Slam Shuffle](https://adventofcode.com/2019/day/22)<!-- ; [not started](https://github.com/kjeliasen/AdventOfCode/blob/master/2019/my_solutions/2019_22.ipynb) -->
+23. [Category Six](https://adventofcode.com/2019/day/23)<!-- ; [not started](https://github.com/kjeliasen/AdventOfCode/blob/master/2019/my_solutions/2019_23.ipynb) -->
+24. [Planet of Discord](https://adventofcode.com/2019/day/24)<!-- ; [not started](https://github.com/kjeliasen/AdventOfCode/blob/master/2019/my_solutions/2019_24.ipynb) -->
+25. [Cryostasis](https://adventofcode.com/2019/day/25)<!-- ; [not started](https://github.com/kjeliasen/AdventOfCode/blob/master/2019/my_solutions/2019_25.ipynb) -->
